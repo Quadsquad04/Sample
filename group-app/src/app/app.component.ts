@@ -14,7 +14,7 @@ import { Component } from '@angular/core';
   styles: [
     `h1{
       font-family: verdana;
-      color: red;
+      color: red;ss
     }`
   ]
 })
