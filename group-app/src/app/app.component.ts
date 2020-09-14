@@ -15,11 +15,6 @@ import { Component } from '@angular/core';
     `h1{
       font-family: verdana;
       color: red;
-      
-    }
-    h2{
-      font-family: verdana;
-      color: red;
     }`
   ]
 })
