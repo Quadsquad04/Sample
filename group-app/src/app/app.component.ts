@@ -8,10 +8,21 @@ import { Component } from '@angular/core';
       <h1>
         Welcome to {{title}}!
       </h1>
-      <h2> Hey welcome to angular app </h2>
+      <h2>Github Jenkins integration attempt</h2>
+    </div>
   `,
-  styles: []
+  styles: [
+    `h1{
+      font-family: verdana;
+      color: red;
+      
+    }
+    h2{
+      font-family: verdana;
+      color: red;
+    }`
+  ]
 })
 export class AppComponent {
-  title = 'group-app';
+  title = 'hello-app';
 }
